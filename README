@@ -1,0 +1,23 @@
+First Attempt at a simple Pong Game using the MVC method.
+
+Python Version: 3.9.7
+OS: MacOS 13.2.1
+
+The Motivation behind this iteration of Pong was to follow the MVC methodology because it was assigned to us but also because it helps consolodate the
+allowing for it to be used as a template for future projects. In this specific version of Pong it is a multiplayer game where the first person to 5 wins.
+Another thing that I added that is a little different, is that when the ball hits the top or bottom of the board it makes it speed up so that the player
+gains an advantage by hitting it off of the top. 
+
+Future Updates:
+  Add a main menu that allows for selection between one player or two
+  Add a difficulty selector to let the user select how fast the ball moves
+  Add a customization for the paddle colors and ball colors
+  Add a customization for what the end score could be
+  Add PowerUps (Slow Mo, x2 Score, multiple balls, etc)
+  
+  Future Game Adaptability:
+    With most of the functionality being generalized, the only thing we would need to change to completely adjust what game we are playing is change
+    some of the entities to show other shapes or sprites, another thing is just to change the game rules. With the MVC methods being already implemented
+    it requires small changes to alter the game. 
+    
+    
